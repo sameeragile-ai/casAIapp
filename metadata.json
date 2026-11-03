@@ -1,0 +1,6 @@
+{
+  "name": "casAIapp.ro — AI Architecture & Contractors",
+  "description": "Premium Romanian platform turning architectural sketches into photorealistic AI renders, shoppable material budgets, and B2B contractor connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
